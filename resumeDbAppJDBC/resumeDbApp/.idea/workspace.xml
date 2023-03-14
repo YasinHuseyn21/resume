@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="033f1ff7-b64e-4e97-901d-03c854aec239" name="Changes" comment="" />
+    <list default="true" id="033f1ff7-b64e-4e97-901d-03c854aec239" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/main/ResumeDbAppJpaSpringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/ResumeDbAppJpaSpringApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/test/java/com/company/main/ResumeDbAppJpaSpringApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/test/java/com/company/ResumeDbAppJpaSpringApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/dao/impl/CountryDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/dao/impl/CountryDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/dao/impl/EmploymentHistoryDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/dao/impl/EmploymentHistoryDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/dao/impl/SkillDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/dao/impl/SkillDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/dao/impl/UserSkillDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/dao/impl/UserSkillDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/dao/inter/AbstractDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/dao/inter/AbstractDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/dao/inter/UserSkillDaoInter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/dao/inter/UserSkillDaoInter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/main/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/main/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/main/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +33,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,7 +57,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Workspace/awsomeResume/ResumeAppByUsingSpring",
+    "last_opened_file_path": "C:/Workspace/awsomeResume/resume/resumeDbAppJPA/resumeDbAppJPA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -121,6 +140,7 @@
       <workItem from="1678131384034" duration="806000" />
       <workItem from="1678313129687" duration="626000" />
       <workItem from="1678395737128" duration="21000" />
+      <workItem from="1678826187152" duration="333000" />
     </task>
     <servers />
   </component>
