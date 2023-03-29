@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="033f1ff7-b64e-4e97-901d-03c854aec239" name="Changes" comment="">
+    <list default="true" id="19c238fa-279e-4058-9aba-4c29ed566721" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/encodings.xml" beforeDir="false" />
@@ -109,7 +109,9 @@
       <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/entity/UserSkill.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/resources/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/test/java/com/company/ResumeDbAppJpaSpringApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resumeDbApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../resumeDbApp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/entity/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/src/main/java/com/company/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/target/classes/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/target/classes/com/company/dao/impl/CountryDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJPA/resumeDbAppJPA/target/classes/com/company/dao/impl/CountryDaoImpl.class" afterDir="false" />
@@ -132,28 +134,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2KehaYxhOuToIxZszR4GDlbfFFV" />
+  <component name="ProjectId" id="2Nf25hLCCQ8dWqrwSXNgfD6vySr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -163,109 +159,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Workspace/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "last_opened_file_path": "C:/Workspace/awsomeResume/resume/resumeDbAppJDBC/resumeDbAppN",
     "vue.rearranger.settings.migration": "true"
-  },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql",
-      "mysql"
-    ]
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="resumeDbApp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="033f1ff7-b64e-4e97-901d-03c854aec239" name="Changes" comment="" />
-      <created>1674341019314</created>
+      <changelist id="19c238fa-279e-4058-9aba-4c29ed566721" name="Changes" comment="" />
+      <created>1680040635917</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674341019314</updated>
-      <workItem from="1674341020381" duration="65000" />
-      <workItem from="1674341109129" duration="60000" />
-      <workItem from="1674341189989" duration="10000" />
-      <workItem from="1674341221436" duration="38000" />
-      <workItem from="1674341275635" duration="39000" />
-      <workItem from="1674341336324" duration="46000" />
-      <workItem from="1674510142120" duration="5188000" />
-      <workItem from="1674678749319" duration="5803000" />
-      <workItem from="1674734283208" duration="30000" />
-      <workItem from="1674767545124" duration="1929000" />
-      <workItem from="1674851950414" duration="156000" />
-      <workItem from="1674852146722" duration="3496000" />
-      <workItem from="1674857023970" duration="5748000" />
-      <workItem from="1674911303964" duration="4195000" />
-      <workItem from="1674938986240" duration="1217000" />
-      <workItem from="1675716018464" duration="16000" />
-      <workItem from="1676406281947" duration="45000" />
-      <workItem from="1676407324297" duration="2505000" />
-      <workItem from="1676581109279" duration="607000" />
-      <workItem from="1676837712966" duration="423000" />
-      <workItem from="1676840767855" duration="74000" />
-      <workItem from="1676843611560" duration="913000" />
-      <workItem from="1676844554448" duration="969000" />
-      <workItem from="1677185981769" duration="3154000" />
-      <workItem from="1677361380361" duration="1000" />
-      <workItem from="1677496087544" duration="5000" />
-      <workItem from="1677615618972" duration="42000" />
-      <workItem from="1677768851889" duration="21000" />
-      <workItem from="1677795011721" duration="891000" />
-      <workItem from="1677878333496" duration="952000" />
-      <workItem from="1677881202578" duration="602000" />
-      <workItem from="1677958920164" duration="1230000" />
-      <workItem from="1677962014820" duration="15000" />
-      <workItem from="1678049337432" duration="1123000" />
-      <workItem from="1678131384034" duration="806000" />
-      <workItem from="1678313129687" duration="626000" />
-      <workItem from="1678395737128" duration="21000" />
-      <workItem from="1678826187152" duration="333000" />
-      <workItem from="1679257532979" duration="68000" />
+      <updated>1680040635917</updated>
+      <workItem from="1680040637050" duration="44000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.sql.SQLException" package="java.sql" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.sql.SQLSyntaxErrorException" package="java.sql" />
-          <option name="timeStamp" value="5" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
