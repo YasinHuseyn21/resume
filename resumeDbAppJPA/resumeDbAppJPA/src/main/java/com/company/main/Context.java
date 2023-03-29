@@ -1,13 +1,7 @@
 package com.company.main;
 
-import com.company.dao.impl.UserDaoImpl;
-import com.company.dao.impl.UserSkillDaoImpl;
-import com.company.dao.inter.SkillDaoInter;
-import com.company.dao.inter.UserSkillDaoInter;
-import com.company.dao.impl.CountryDaoImpl;
-import com.company.dao.impl.SkillDaoImpl;
-import com.company.dao.inter.CountryDaoInter;
-import com.company.dao.inter.UserDaoInter;
+import com.company.dao.impl.*;
+import com.company.dao.inter.*;
 
 public class Context {
     public static UserDaoInter instanceUserDao(){
@@ -22,5 +16,9 @@ public class Context {
     
     public static UserSkillDaoInter instanceUserSkillDao(){
         return new UserSkillDaoImpl();
+    }
+
+    public static EmploymentHistoryDaoInter instanceEmploymentHistoryDao(){
+        return new EmploymentHistoryDaoImpl();
     }
 }

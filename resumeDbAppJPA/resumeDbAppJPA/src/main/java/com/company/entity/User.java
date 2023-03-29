@@ -63,7 +63,7 @@ public class User implements Serializable {
     @Column(name = "profile_description")
     private String profileDescription;
     
-    @Column(name = "birthDate")
+    @Column(name = "birth_date")
     @Temporal(TemporalType.DATE)
     private Date birthDate;
     @Column(name = "adress")

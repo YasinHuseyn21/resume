@@ -5,5 +5,5 @@ import com.company.entity.UserSkill;
 import java.util.List;
 
 public interface UserSkillDaoInter {
-    public List<UserSkill> getAllSkillByUserId(Integer userId);
+    public List<UserSkill> getAllSkill();
 }

@@ -17,6 +17,7 @@ public class SkillDaoImpl extends AbstractDao implements SkillDaoInter {
         EntityManager em = em();
         Query query =em.createQuery("select s from Skill s",Skill.class);
         List<Skill> list=query.getResultList();
+        em.close();
         return list;
     }
 }

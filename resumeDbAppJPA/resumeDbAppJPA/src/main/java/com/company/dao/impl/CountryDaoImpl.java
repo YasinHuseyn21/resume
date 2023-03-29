@@ -24,6 +24,7 @@ return null;
        EntityManager em=em();
        Query query=em.createQuery("select c from Country c");
        List<Country> list=query.getResultList();
+       em.close();
        return list;
       
 }
