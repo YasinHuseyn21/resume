@@ -4,141 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="033f1ff7-b64e-4e97-901d-03c854aec239" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_4_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__ch_qos_logback_logback_core_1_4_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_32.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__com_zaxxer_HikariCP_5_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_4_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_10_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_19_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_assertj_assertj_core_3_23_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_eclipse_angus_angus_activation_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_4_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_4_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_glassfish_jaxb_txw2_4_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_6_0_6_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_hibernate_orm_hibernate_core_6_1_7_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_5_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_mockito_mockito_core_4_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_2_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_boot_spring_boot_3_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_3_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_3_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_3_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_3_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_3_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_3_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_3_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_3_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_3_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_data_spring_data_commons_3_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_3_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_spring_aop_6_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_spring_aspects_6_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_spring_beans_6_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_spring_context_6_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_spring_core_6_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_spring_expression_6_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_spring_jcl_6_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_spring_jdbc_6_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_spring_orm_6_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_spring_test_6_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_springframework_spring_tx_6_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/libraries/Maven__org_yaml_snakeyaml_1_33.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/ResumeDbAppJpaSpringApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/impl/CountryDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/impl/EmploymentHistoryDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/impl/SkillDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/impl/UserDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/impl/UserSkillDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/inter/AbstractDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/inter/CountryDaoInter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/inter/EmploymentHistoryDaoInter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/inter/SkillDaoInter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/inter/UserDaoInter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/dao/inter/UserSkillDaoInter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/entity/Country.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/entity/EmploymentHistory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/entity/Skill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/java/com/company/entity/UserSkill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ResumeAppByUsingSpring/ResumeDbAppJpaSpring/ResumeDbAppJpaSpring/src/test/java/com/company/ResumeDbAppJpaSpringApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../resumeDbAppJDBC/resumeDbApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../resumeDbAppJDBC/resumeDbApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/dao/impl/CountryDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/dao/impl/CountryDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/dao/impl/EmploymentHistoryDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/dao/impl/EmploymentHistoryDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/dao/impl/SkillDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/dao/impl/SkillDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/dao/impl/UserSkillDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/dao/impl/UserSkillDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/dao/inter/EmploymentHistoryDaoInter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/dao/inter/EmploymentHistoryDaoInter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/dao/inter/UserDaoInter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/dao/inter/UserDaoInter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/dao/inter/UserSkillDaoInter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/dao/inter/UserSkillDaoInter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/main/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/main/Context.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/dao/impl/CountryDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/dao/impl/CountryDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/dao/impl/EmploymentHistoryDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/dao/impl/EmploymentHistoryDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/dao/impl/UserDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/dao/impl/UserSkillDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/dao/impl/UserSkillDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/dao/inter/AbstractDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/dao/inter/AbstractDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/dao/inter/EmploymentHistoryDaoInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/dao/inter/EmploymentHistoryDaoInter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/dao/inter/UserDaoInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/dao/inter/UserDaoInter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/dao/inter/UserSkillDaoInter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/dao/inter/UserSkillDaoInter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/entity/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/entity/Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/entity/EmploymentHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/entity/EmploymentHistory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/entity/Skill.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/entity/Skill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/entity/UserSkill.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/entity/UserSkill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/main/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/main/Context.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/main/Main.class" afterDir="false" />
-    </list>
+    <list default="true" id="033f1ff7-b64e-4e97-901d-03c854aec239" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -282,7 +148,7 @@
       <workItem from="1679604327395" duration="40000" />
       <workItem from="1680039496180" duration="1191000" />
       <workItem from="1680120834889" duration="3995000" />
-      <workItem from="1680128185275" duration="675000" />
+      <workItem from="1680128185275" duration="1269000" />
     </task>
     <servers />
   </component>

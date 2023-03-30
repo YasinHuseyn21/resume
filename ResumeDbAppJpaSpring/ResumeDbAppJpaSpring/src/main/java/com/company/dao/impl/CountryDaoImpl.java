@@ -8,7 +8,7 @@ import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.Query;
 import java.util.List;
-@Repository
+@Repository("countryDao1")
 public class CountryDaoImpl  implements CountryDaoInter {
     @PersistenceContext
     EntityManager em;

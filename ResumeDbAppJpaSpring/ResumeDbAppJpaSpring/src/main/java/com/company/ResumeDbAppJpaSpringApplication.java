@@ -1,28 +1,17 @@
 package com.company;
 
-import com.company.dao.inter.CountryDaoInter;
-import com.company.dao.inter.EmploymentHistoryDaoInter;
-import com.company.dao.inter.UserDaoInter;
-import com.company.dao.inter.UserSkillDaoInter;
-import com.company.entity.UserSkill;
+import com.company.dao.inter.UserRepository;
+import com.company.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
-import java.util.List;
-
 @SpringBootApplication
 public class ResumeDbAppJpaSpringApplication {
     @Autowired
-    private UserDaoInter userDao;
-    @Autowired
-    private EmploymentHistoryDaoInter employmentHistoryDao;
-    @Autowired
-    private CountryDaoInter countryDao;
-    @Autowired
-    private UserSkillDaoInter userSkillDao;
+    private UserRepository userRepo;
 
 
     public static void main(String[] args) {
@@ -34,9 +23,12 @@ public class ResumeDbAppJpaSpringApplication {
         CommandLineRunner clr = new CommandLineRunner() {
             @Override
             public void run(String... args) throws Exception {
-                List<UserSkill> list = userSkillDao.getAllSkill();
-                System.out.println(list);
-
+                User u = userRepo.findByName("Yasin");
+                System.out.println(u);
+                User u2 = userRepo.findByNameAndSurname("Jon", "Colman");
+                System.out.println(u2);
+                User user = userRepo.findByEmail("joncolman@gmail.com");
+                System.out.println(user);
             }
         };
         return clr;
